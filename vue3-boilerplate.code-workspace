@@ -4,5 +4,11 @@
 			"path": "."
 		}
     ],
-    "settings": {}
+    "settings": {
+        "typescript.preferences.quoteStyle": "single",
+		"javascript.preferences.quoteStyle": "single",
+        "css.validate": false,
+		"less.validate": false,
+        "scss.validate": false
+    }
 }
